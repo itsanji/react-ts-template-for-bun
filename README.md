@@ -2,10 +2,12 @@
 
 ## Getting Started
 
+## NOTE: `manifest.json` not working yet.
+
 ### Cloning the repo
 
 ```sh
-bun create
+bun create anjiboss/react-ts-template-for-bun
 ```
 
 First, run the development server:
