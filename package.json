@@ -13,5 +13,9 @@
   "devDependencies": {
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6"
+  },
+  "framework": {
+    "displayName": "React.js",
+    "static": "public"
   }
 }
