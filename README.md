@@ -10,7 +10,12 @@
 bun create anjiboss/react-ts-template-for-bun
 ```
 
-First, run the development server:
+### Create binary bun file for `main.tsx`
+```sh
+bun bun src/main.tsx
+```
+
+Run the development server:
 
 ```bash
 bun dev
